@@ -12,4 +12,3 @@ cd Enough
 pip3 install -r requirements.txt
 python3 enough.py
 ```
-![Ekran görüntüsü 2023-10-03 105308](https://github.com/peterdarlington9/smsbomb0/assets/134080978/22d8713a-e466-4f9d-8b3b-98e93c46b1d8)
