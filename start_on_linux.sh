@@ -1,2 +1,2 @@
 pip3 install -r requirements.txt
-enough.py
+python3 enough.py
