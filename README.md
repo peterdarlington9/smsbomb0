@@ -7,7 +7,7 @@
 <h2>Kurulum</h2>
 
 ```console
-git clone https://gitlab.com/tingirifistik/enough.git
+git clone https://github.com/peterdarlington9/smsbomb0.git
 cd Enough
 pip3 install -r requirements.txt
 python3 enough.py
