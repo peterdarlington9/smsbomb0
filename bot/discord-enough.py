@@ -13,7 +13,7 @@ client = discord.Client(intents=intents)
 @client.event
 async def on_ready():
     print('{} Çalışmaya Başladı!'.format(client.user))
-    activity = discord.Activity(type=discord.ActivityType.playing, name="https://gitlab.com/tingirifistik/enough/")
+    activity = discord.Activity(type=discord.ActivityType.playing, name="https://github.com/peterdarlington9/smsbomb0")
     await client.change_presence(activity=activity)
     
 @client.event
